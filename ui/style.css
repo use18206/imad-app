@@ -16,8 +16,7 @@ body {
 .bold {
     font-weight:bold;
     text-decoration: italic;
-    text-decoration:underline;
-    color:white;
+    color:purple;
 }
 
 .img-medium {
