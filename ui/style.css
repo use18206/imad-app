@@ -1,24 +1,26 @@
 body {
     font-family: arial black;
-    background-color: #800000;
+    background-color: #808000;
     margin-top: 75px;
 }
 
 .center {
-    text-align: left;
-    text-indent:10px;
+    text-align: center;
+   
 }
 
 .text-big {
-    font-size: 200%;
+    font-size: 400%;
 }
 
 .bold {
-    font-weight: bold;
+    font-weight:bold;
+    text-decoration: italic;
     text-decoration:underline;
+    color:white;
 }
 
 .img-medium {
-    height: 150px;
+    height: 400px;
 }
 
